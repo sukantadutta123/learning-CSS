@@ -1,0 +1,25 @@
+*{
+    font-family: fantasy;
+}
+
+body{
+    font-size: 24px;
+
+}
+#first{
+    color:red;
+}
+
+.purple{
+    color:purple;
+    font-family: monospace;
+}
+
+.highlight{
+    background-color: yellow;
+    font-weight: bolder;
+}
+
+p:hover{
+font-family: monospace;
+}
