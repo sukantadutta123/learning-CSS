@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+h1{
+    color:#7b54fc;
+    text-align:  center;
+    text-shadow:4px 4px 5px #7b54fc61
+}
+p{
+    color:rgb(28, 26, 30);
+    line-height: 2rem;
+    word-spacing: 0.3rem;
+    letter-spacing: 0.1em;
+    text-transform: lowercase;
+    font-size: large;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: 'silkscreen',cursive;
+    font-weight: bold;
+    
+}
+
+a{
+    text-transform: capitalize; 
+    cursor:pointer; 
+}
